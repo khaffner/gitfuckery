@@ -3,3 +3,5 @@ Initial file content - first commit.
 Some code, this should be version 1.0.0.0
 
 Some more code
+
+Even more, this deserves to become version 1.0.0.1
